@@ -1,2 +1,2 @@
 # DAM
-Desarrollo de Aplicaciones Multiplataforma Rama de pruebas
+Desarrollo de Aplicaciones Multiplataforma
